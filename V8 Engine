@@ -1,0 +1,11 @@
+V8 Engine in JS
+
+
+The java script code(human readable)  is sent to the parser. Parser contains the java script syntax and rules.
+It compares the java script code with the syntax and rules in the parser line by line. 
+If there are any errors in syntax it generates an error.
+If there is no error it creats a abstract syntax tree it contains the concept of strucures written in js code.
+It is given to the Interpreter it generates a byte code and give it to the compiler. 
+Compiler converts the byte code into machine code.
+	
+	
